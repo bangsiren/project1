@@ -1,0 +1,171 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.background-mage{
+	background-image: url('myWebImage.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+}
+.head{
+	background-color: rgba(0,0,0,0.5);
+	width: 100%;
+	height: 110px;
+	position: fixed;
+}
+.floatleft h4{
+	float: left;
+	color: white;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 90px;
+}
+.floatright ul li a{
+	float: right;
+	text-decoration: none;
+	padding-left: 70px;
+	line-height: 90px;
+	color: white;
+	text-transform: uppercase;
+ 
+}
+ .floatright ul li {
+ 	display: inline-block;
+ 	list-style-type: none;
+ }
+ .floatright ul li a:hover{
+ 	color: orange;
+ }
+ 
+  .floatright ul li .num{
+ 	color: cyan;
+ }
+ .text{
+ 	/*padding-top: 190px;*/
+ 	text-align: center;
+ 	background-color: rgba(102,100,200,0.5);
+/* 	position: fixed;*/
+
+ }
+ .text h4{
+ 	color: white;
+ 	text-transform: uppercase;
+ 	font-weight: bold;
+ 	font-size: 30px;
+ 	border-radius: 80px;
+
+ }
+ .text h1{
+ 	color: white;
+ 	font-weight: bold;
+ 	font-size: 80px;
+ 	text-transform: uppercase;
+ 	font-style: italic;
+ }
+ .text h3{
+ 	color: white;
+ 	font-weight: bold;
+ 	font-size: 20px;
+ 	text-transform: uppercase;
+ }
+ .foot{
+ 	margin-top: 580px;
+ 	background-color: red;
+ 	width: 100%;
+ 	height: 80px;
+
+ }
+ .float-left h5{
+ 	float: left;
+ 	color: white;
+ 	text-transform: uppercase;
+ 	line-height: 70px;
+ 	padding-left: 40px;
+ }
+ .float-right ul li{
+ 	float: right;
+ 	list-style-type: none;
+ 	padding-right: 40px;
+ 	text-transform: uppercase;
+ 	color: white;
+ 	line-height: 70px;
+ }
+  .buttonOne {
+ 	background-color: red;
+ 	color: white;
+ 	text-transform: uppercase;
+ 	font-weight: bold;
+ 	font-size: 10px
+ 	height: 15px;
+ 	border-radius: 30px;
+ 	padding: 10px;
+ }
+ .buttontwo{
+ 	background-color: brown;
+ 	color: white;
+ 	text-transform: uppercase;
+ 	font-weight: bold;
+ 	font-size: 10px
+ 	height: 30px;
+ 	border-radius: 20px;
+}
+section{
+	margin-top: 100px;
+	text-align: center;
+	background-color: cyan;
+	width: 100%;
+	height: 50px;
+	line-height: 45px;
+	border-radius: 40px;
+	position: fixed;
+}
+ section h2{
+ 	color: white;
+ }
+ #name{
+ 	background-color: darkgreen;
+ 	margin: 0 150px;
+ 	position: relative;
+ 	text-align: center;
+ }
+ #name li{
+ 	list-style-type: none;
+ 	background-color: gray;
+ 	border: 1px solid black;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
